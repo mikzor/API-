@@ -11,7 +11,7 @@ npm -i chai
 
 npm -i mocha
 
-API jokes sourse: 
+API jokes resource: 
 
 https://github.com/chucknorris-io/chuck-api
 
