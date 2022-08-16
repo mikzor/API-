@@ -11,6 +11,8 @@ npm -i chai
 
 npm -i mocha
 
-Verify items replacement with package.json:
+API jokes sourse: 
 
-Replace line with "test" from  "test": echo \"Error: no test specified\" && exit 1"  to  "test": "mocha" . 
+https://github.com/chucknorris-io/chuck-api
+
+Have fun! 
